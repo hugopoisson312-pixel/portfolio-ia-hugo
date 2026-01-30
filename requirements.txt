@@ -1,5 +1,11 @@
 streamlit==1.52.2
 openai-agents[redis]==0.6.5
 upstash-vector==0.8.0
-pytest==9.0.2
+upstash-redis==1.0.0
 python-dotenv==1.2.1
+pydantic==2.10.6
+pandas==2.2.3
+numpy==2.1.0
+tiktoken==0.7.0
+pytest==9.0.2
+pytest-asyncio==0.24.0
